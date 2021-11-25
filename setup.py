@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Improves the browsable api of Django Rest Framework
-"""
+"""Improves the browsable api of Django Rest Framework"""
 import copy
 import os
 import glob
